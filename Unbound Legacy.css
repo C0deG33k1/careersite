@@ -1,0 +1,40 @@
+
+
+ul {
+    padding: 30px;
+    list-style: none;
+    
+}
+
+.listing li,h2,h4 {
+    background-color: white;
+    padding: 20px;
+}
+
+.nagr {
+    background-image: url("https://c1.staticflickr.com/8/7320/27680289185_4966eeb6ce_k.jpg");
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rolemodel {
+    background-image: url("https://c1.staticflickr.com/6/5202/5238200019_3fdae79b2c_b.jpg");
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.summit {
+    background-image:url("https://c1.staticflickr.com/1/680/22616044373_752ee6905d_k.jpg");
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.comingsoon {
+    background-image: url("https://www.w3schools.com/w3images/forestbridge.jpg")
+}
+
+.box {
+    border-width: 20px;
+    border-color: white;
+    margin-bottom: 42px;
+}
