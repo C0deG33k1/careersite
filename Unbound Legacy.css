@@ -38,3 +38,21 @@ ul {
     border-color: white;
     margin-bottom: 42px;
 }
+
+#banner-wrapper {
+   margin-top: 13rem;
+}
+
+.main-image {
+    background-image: url(https://pixabay.com/get/eb30b40e29f21c22d9584518a3494197e271e7d604b0144094f3c779a2efb2/singapore-river-255116_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 15rem;
+}
+
+.main-image h1 {
+    color: #fff;
+    
+    font-family: 'Roboto', sans-serif;
+}
